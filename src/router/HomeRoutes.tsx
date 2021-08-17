@@ -1,0 +1,5 @@
+export const HomeRoutes = [
+  {
+    path: '/',
+  },
+];
